@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/binakhatnani/TwitterSentimentAnalysis/mlruns/1/e0ae1023d03c4161a3a7ad92f7033508/artifacts
+end_time: 1647135635790
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e0ae1023d03c4161a3a7ad92f7033508
+run_uuid: e0ae1023d03c4161a3a7ad92f7033508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1647135635782
+status: 4
+tags: []
+user_id: binakhatnani

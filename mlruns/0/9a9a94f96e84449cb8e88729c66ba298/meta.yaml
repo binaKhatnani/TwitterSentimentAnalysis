@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/9a9a94f96e84449cb8e88729c66ba298/artifacts
+end_time: 1647203396295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 9a9a94f96e84449cb8e88729c66ba298
+run_uuid: 9a9a94f96e84449cb8e88729c66ba298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1647203396115
+status: 4
+tags: []
+user_id: binakhatnani

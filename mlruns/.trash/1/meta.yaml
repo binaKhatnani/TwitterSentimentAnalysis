@@ -1,0 +1,4 @@
+artifact_location: file:///Users/binakhatnani/TwitterSentimentAnalysis/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: my_classification_model
